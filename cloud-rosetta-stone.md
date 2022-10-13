@@ -5,7 +5,7 @@ Simple breakdown of core cloud technologies and their corollary in other clouds.
 |Cloud Service        | AWS           | Azure                          | GCP                           |
 |---------------------|---------------|--------------------------------|-------------------------------|
 |Object Storage       | S3            | Blob Storage                   | Cloud Storage                 |
-|Virual Machine       | EC2           | Virual Machine                 | Compute Engine                |
+|Virtual Machine       | EC2           | Virual Machine                 | Compute Engine                |
 |SQL Database         | RDS           | Azure SQL Database<sup>1</sup> | Cloud SQL                     |
 |Serverless Functions | Lambda        | Function App                   | Cloud Functions               |
 |NoSQL                | Dynamo DB     | Cosmos DB                      | Cloud Datastore or Firestore  |
